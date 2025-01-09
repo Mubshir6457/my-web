@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="pt-32 pb-20 px-6">
       <div className="container mx-auto text-center">
-        <h1 className="text-5xl font-bold mb-6">M. Mubashir</h1>
+        <h1 className="text-5xl font-bold mb-6"> Mubashir</h1>
         <h2 className="text-3xl text-blue-400 mb-8">AI Engineer & Machine Learning Specialist</h2>
         <p className="text-xl mb-10 max-w-2xl mx-auto">
           Passionate about leveraging artificial intelligence to solve complex problems and create innovative solutions.

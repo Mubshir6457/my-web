@@ -9,7 +9,7 @@ export default function AboutMe() {
           <div className="md:w-1/2 mb-8 md:mb-0">
             <Image
               src="/my-pic1.jpg"
-              alt="M. Mubashir"
+              alt=" Mubashir"
               width={400}
               height={400}
               className="rounded-full mx-auto"
@@ -17,7 +17,7 @@ export default function AboutMe() {
           </div>
           <div className="md:w-1/2">
             <p className="text-lg mb-4">
-              Hello! I'm M. Mubashir, an AI Engineer and Machine Learning Specialist with a passion for pushing the boundaries of what's possible with artificial intelligence.
+              Hello! I am  Mubashir, an AI Engineer and Machine Learning Specialist with a passion for pushing the boundaries of what's possible with artificial intelligence.
             </p>
             <p className="text-lg mb-4">
               With over 5 years of experience in the field, I've had the opportunity to work on a wide range of projects, from computer vision applications to natural language processing systems. My expertise lies in developing scalable AI solutions that solve real-world problems.
